@@ -1,0 +1,35 @@
+{
+  "name": "modern-portfolio",
+  "version": "1.0.0",
+  "description": "A modern, responsive portfolio website built with vanilla HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . --single",
+    "build": "echo 'No build step required for vanilla HTML/CSS/JS'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "modern",
+    "responsive",
+    "vanilla-js",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/modern-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/modern-portfolio/issues"
+  },
+  "homepage": "https://your-portfolio-site.vercel.app",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+} 
