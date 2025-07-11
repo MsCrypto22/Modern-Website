@@ -15,7 +15,7 @@ A sleek, modern portfolio website built with vanilla HTML, CSS, and JavaScript. 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-portfolio-site.vercel.app)
+
 
 ## 🛠️ Technologies Used
 
