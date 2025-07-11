@@ -13,10 +13,6 @@ A sleek, modern portfolio website built with vanilla HTML, CSS, and JavaScript. 
 - **Modern UI** - Clean, minimalist design with glassmorphism effects
 - **Performance Optimized** - Lightweight vanilla JavaScript
 
-## 🚀 Live Demo
-
-
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -117,7 +113,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 If you have any questions or need help customizing the template, feel free to open an issue or reach out!
-
----
-
-⭐ Star this repository if you found it helpful!
